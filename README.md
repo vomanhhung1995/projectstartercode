@@ -51,6 +51,7 @@ The server will respond with the filtered image data if successful. If errors oc
 - A screenshot of the elastic beanstalk application dashboard after deploymentAWS elasticbeanstalk: [https://github.com/vomanhhung1995/projectstartercode/blob/master/deployment_screenshots/ElasticBeanstalk.png](https://github.com/vomanhhung1995/projectstartercode/blob/master/deployment_screenshots/ElasticBeanstalk.png)
 - A link to the endpoint URL for a running elastic beanstalk deployment: [http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/](http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/)
 - Evidence run local and deploy elasticbeanstalk: [https://github.com/vomanhhung1995/projectstartercode/tree/master/deployment_screenshots/runsource_and_deploy](https://github.com/vomanhhung1995/projectstartercode/tree/master/deployment_screenshots/runsource_and_deploy)
+- Postman collection: https://github.com/vomanhhung1995/projectstartercode/blob/master/deployment_screenshots/udacity-hungvm1%40fpt.com.postman_collection.json
 
 ## Contact:
 
