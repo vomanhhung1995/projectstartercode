@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "13e61791-1cb5-4a95-8ec8-d69f433991bf",
+		"name": "udacity-hungvm1@fpt.com",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "33192105"
+	},
+	"item": [
+		{
+			"name": "Status200",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Status500",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Status401",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Status400",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
